@@ -10,7 +10,7 @@
 - Wendel Hebert Feitosa
 - Sofia Della Zuana Arone
 - Lucas Michel Pereira
-- Matheus Henrique Scapolan Silva
+- Eduardo Jesus Tavares Sant'Anna
 - [Nome do integrante 6](#)
 
 
